@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("latest commit");
         System.out.println("docker file added and jenkins configured");
+        System.out.println("Docker integeration with jenkins");
 
     }
 }
